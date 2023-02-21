@@ -8,7 +8,7 @@
         <configuration_access>false</configuration_access>
         <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
-        <delete_access>true</delete_access>
+        <delete_access>false</delete_access>
         <is_extendable>false</is_extendable>
         <label>Needit</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -29,6 +29,6 @@
         <sys_update_name>sys_db_object_fcb39cc547702110cb798c38c26d433f</sys_update_name>
         <update_access>true</update_access>
         <user_role display_value="x_58872_needit.ulas_user" name="x_58872_needit.ulas_user">d604d0c547702110cb798c38c26d43da</user_role>
-        <ws_access>true</ws_access>
+        <ws_access>false</ws_access>
     </sys_db_object>
 </record_update>
